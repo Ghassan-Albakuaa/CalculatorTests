@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayTest", "ArrayTest\ArrayTest.csproj", "{64AC270E-AA8D-4132-B34B-1B183CBBCB0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayTest.Tests", "ArrayTest.Tests\ArrayTest.Tests.csproj", "{DB4269DA-D53A-4ABB-A09E-B848FFD65DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64AC270E-AA8D-4132-B34B-1B183CBBCB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AC270E-AA8D-4132-B34B-1B183CBBCB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AC270E-AA8D-4132-B34B-1B183CBBCB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AC270E-AA8D-4132-B34B-1B183CBBCB0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB4269DA-D53A-4ABB-A09E-B848FFD65DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4269DA-D53A-4ABB-A09E-B848FFD65DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4269DA-D53A-4ABB-A09E-B848FFD65DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4269DA-D53A-4ABB-A09E-B848FFD65DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77489656-6B02-412E-BD5B-EBB961496E76}
+	EndGlobalSection
+EndGlobal
